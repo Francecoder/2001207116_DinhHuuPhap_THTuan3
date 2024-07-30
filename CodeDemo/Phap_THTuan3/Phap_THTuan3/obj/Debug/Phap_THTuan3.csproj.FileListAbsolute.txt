@@ -1,0 +1,7 @@
+C:\Users\franc\Desktop\PhanTichThietKeThuatToan\LyThuyet\2001207116_DinhHuuPhap_THTuan3\CodeDemo\Phap_THTuan3\Phap_THTuan3\bin\Debug\Phap_THTuan3.exe.config
+C:\Users\franc\Desktop\PhanTichThietKeThuatToan\LyThuyet\2001207116_DinhHuuPhap_THTuan3\CodeDemo\Phap_THTuan3\Phap_THTuan3\bin\Debug\Phap_THTuan3.exe
+C:\Users\franc\Desktop\PhanTichThietKeThuatToan\LyThuyet\2001207116_DinhHuuPhap_THTuan3\CodeDemo\Phap_THTuan3\Phap_THTuan3\bin\Debug\Phap_THTuan3.pdb
+C:\Users\franc\Desktop\PhanTichThietKeThuatToan\LyThuyet\2001207116_DinhHuuPhap_THTuan3\CodeDemo\Phap_THTuan3\Phap_THTuan3\obj\Debug\Phap_THTuan3.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\PhanTichThietKeThuatToan\LyThuyet\2001207116_DinhHuuPhap_THTuan3\CodeDemo\Phap_THTuan3\Phap_THTuan3\obj\Debug\Phap_THTuan3.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\PhanTichThietKeThuatToan\LyThuyet\2001207116_DinhHuuPhap_THTuan3\CodeDemo\Phap_THTuan3\Phap_THTuan3\obj\Debug\Phap_THTuan3.exe
+C:\Users\franc\Desktop\PhanTichThietKeThuatToan\LyThuyet\2001207116_DinhHuuPhap_THTuan3\CodeDemo\Phap_THTuan3\Phap_THTuan3\obj\Debug\Phap_THTuan3.pdb
